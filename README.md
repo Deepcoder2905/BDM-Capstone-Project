@@ -22,4 +22,8 @@ In conclusion, this project demonstrated the application of data management and 
 ## Future Work
 Future work on this project could involve tracking the implementation of the recommendations and monitoring the impact on the store's financial performance over a longer period. Additionally, advanced data analysis techniques, such as predictive modeling and forecasting, could be applied to further optimize inventory management and predict sales trends.
 
+## Approval by the Institute
+![image](https://github.com/Deepcoder2905/BDM-Capstone-Project/assets/148648766/114537c9-1635-436c-b701-3919471775e4)
+
+
 We appreciate your interest in this project and look forward to any feedback or collaboration opportunities.
